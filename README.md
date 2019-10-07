@@ -1,3 +1,4 @@
-# rez-yasm
+rez-yasm
+===
 
 Rez build configuration for YASM.
